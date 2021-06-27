@@ -3,15 +3,22 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sshyamkumar4644&label=Profile%20views&color=0e75b6&style=flat" alt="sshyamkumar4644" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sshyamkumar4644" alt="sshyamkumar4644" /></a> </p>
+ ### 👨🏻‍💻 &nbsp;About Me
 
-- 🌱 I’m currently pursuing **Computer Science Engineering**
+- 🎓 I'm currently pursuing Computer Science Engineering at Sahyadri College of Engineering and Management.
+
+- 💡 I like to explore new technologies, Learn and Teach.
 
 - 👨‍💻 All of my projects are available at [https://github.com/SShyamkumar4644/](https://github.com/SShyamkumar4644/)
 
-- 📫 How to reach me **Shyamng48@gmail.com**
+- 📝 I regularly write articles on [beingthepurpose.wordpress.com](beingthepurpose.wordpress.com)
+
+- ✍️ In my free time, I do some Graphic Designing, Sketching and Blog Writing as hobbies.
 
 - 📄 Know about my experiences [https://bit.ly/SShyamkumar](https://bit.ly/SShyamkumar)
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,6 +34,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sshyamkumar4644&show_icons=true&locale=en&layout=compact" alt="sshyamkumar4644" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sshyamkumar4644&show_icons=true&locale=en" alt="sshyamkumar4644" /></p>
-
-
 
