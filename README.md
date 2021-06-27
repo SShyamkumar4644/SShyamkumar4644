@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SShyamkumar4644/](https://github.com/SShyamkumar4644/)
 
-- 📝 I regularly write articles on [beingthepurpose.wordpress.com](beingthepurpose.wordpress.com)
+- 📝 In my Free time, I write articles on [beingthepurpose.wordpress.com](beingthepurpose.wordpress.com)
 
 - ✍️ In my free time, I do some Graphic Designing, Sketching and Blog Writing as hobbies.
 
